@@ -60,7 +60,7 @@ const Sidebar = () => {
                 <div className="z-50 flex min-h-[56px] w-64 items-center justify-between bg-white px-6 pt-3 dark:bg-black">
                     <div className="text-xl font-bold text-gray-800 dark:text-white">
                         <Link href="/">
-                            GBLIST                        
+                            GBLIST
                         </Link>
                     </div>
                     {isSidebarCollapsed ? null : (
@@ -77,7 +77,7 @@ const Sidebar = () => {
                 {/* TEAM */}
                 <div className="flex items-center gap-5 border-y-[1.5px] border-gray-200 px-8 py-4 dark:border-gray-700">
                     <Image
-                        src="https://pm-s3-images-gblist.s3.us-east-2.amazonaws.com/logo.png"
+                        src="https://pm-s3-images-gblist.s3.us-east-2.amazonaws.com/logo2.png"
                         alt="Logo"
                         width={40}
                         height={40}
